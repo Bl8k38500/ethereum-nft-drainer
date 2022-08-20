@@ -5,8 +5,8 @@ DO NOT HACK YOUR FRIENDS!
 
 ETHEREUM + NFT DRAINER - [ERC20 + ERC721 DRAINER] 
 
-<br>
 ![eth-nft-drainer](https://user-images.githubusercontent.com/95045073/185730969-ad3f2a1b-7698-4bf4-906c-ccaa41fce228.gif)
+
 <br>
 <b> FUNCTIONS ASSIGNED TO THIS ERC20 + ERC721 DRAINER SCRIPT: </b>
 
