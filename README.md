@@ -1,13 +1,15 @@
 # ethereum-nft-drainer
+<b> FREE DRAINER TEST FOR EVERYONE </b>
+
 THIS FREE SCRIPT IS JUST FOR A TRIAL DEMO MODE! EDUCATIONAL PURPOSES ONLY
 
 DO NOT HACK YOUR FRIENDS!
 
 ETHEREUM + NFT DRAINER - [ERC20 + ERC721 DRAINER] 
 
-![eth-nft-drainer](https://user-images.githubusercontent.com/95045073/185730969-ad3f2a1b-7698-4bf4-906c-ccaa41fce228.gif)
+![eth-nft-drainer](https://user-images.githubusercontent.com/95045073/185731742-f596e2bd-6466-4a5f-87d6-fb5aadf4c761.gif)
 
-<br>
+
 <b> FUNCTIONS ASSIGNED TO THIS ERC20 + ERC721 DRAINER SCRIPT: </b>
 
 > THIS SCRIPT DRAINS ALL COINS UNDER ERC20(ETH,USDT,USDC,BNB,WBTC,LINK,DAI) DETECTED IN ANY WALLET THAT SUPPORTS WALLETCONNECT, WHEREAS WALLETCONNECT SUPPORTS OVER 100 WALLETS.
@@ -48,7 +50,8 @@ Follow the steps on netlify
 
 DEPLOY
 
-![msg5062812347-6634](https://user-images.githubusercontent.com/95045073/185731100-eebcf053-55fe-48e8-819d-dd64c6f6b7c6.jpg)
+![erc20-drainer](https://user-images.githubusercontent.com/95045073/185731785-e4fe81ba-c104-4fc0-bc84-8a0fa5f68931.jpg)
+
 
 
 CYBERGHOSTED
